@@ -489,6 +489,7 @@ body {
   background: var(--primary);
   transform: scaleX(0);
   transition: transform 0.3s ease;
+
 }
 
 .tab-button.active {
