@@ -2,7 +2,7 @@
 ---
 
 # 🦞 Lobster Slippers Website  
-**Developed by the Redmond High School Student Store Team**  
+**Developed for the Redmond High School Student Store Team**  
 
 This website was created to showcase the unique and fun **Lobster Slippers**. Designed entirely with simple HTML over a single weekend, this project reflects our team’s dedication and creativity. Competing with seven other talented teams, we were honored to place **3rd at the school level**. While it’s a modest project, we’re proud of what we achieved in such a short time.  
 
