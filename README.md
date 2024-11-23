@@ -42,8 +42,7 @@ This website highlights **Lobster Slippers** in a clean and approachable way. Th
 ---
 
 ## 🏆 **Our Journey**  
-Completing this website in under two days was no small challenge, but we worked as a team to bring it to life. Competing with seven incredible teams, we were proud to place **3rd**, earning the opportunity to represent our school at the state level.  
-
+Completing this website in under two days was no small challenge, but we worked as a team to bring it to life. Competing with seven incredible teams, we were proud to place **3rd**.
 While this project is straightforward and made with basic tools, it reflects our commitment to making the best of the resources and time we had. We’re grateful for this experience and excited to continue learning and improving.  
 
 ---
